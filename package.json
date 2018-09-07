@@ -1,0 +1,24 @@
+{
+  "name": "learning-node-simple-api",
+  "version": "0.0.1",
+  "description": "A simple node application for learning purposes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ItalooFerreira/learning-node-simple-api.git"
+  },
+  "author": "Italo Ferreira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ItalooFerreira/learning-node-simple-api/issues"
+  },
+  "homepage": "https://github.com/ItalooFerreira/learning-node-simple-api#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "uuid": "^3.3.2"
+  }
+}
